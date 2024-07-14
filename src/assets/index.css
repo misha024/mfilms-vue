@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --body-color: #333333;         /* Основной цвет (темно-серый) */
+    --body-ligher-color: #444444;  /* Светлый оттенок (серый) */
+    --child-background: #555555;   /* Фон дочерних элементов (серый) */
+    --body-secondary-color: #666666; /* Вторичный цвет (серый) */
+    --header-color: #222222;       /* Цвет заголовка (темно-серый) */
+}
+
+body {background: var(--body-color);}
