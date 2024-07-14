@@ -1,35 +1,16 @@
-# vue-test
+## MFILMS (Vue)
 
-This template should help get you started developing with Vue 3 in Vite.
+### Demos:
+<img width="1728" alt="Снимок экрана 2024-07-15 в 02 09 45" src="https://github.com/user-attachments/assets/cf6043fd-2f98-4f68-87ff-2400c4ac377e">
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+### How started?:
 
-## Customize configuration
+`1. get token from @kinopoiskdev_bot`
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+`2. write you token (src/api.js:4)`
 
-## Project Setup
+`3. write 'npm install'`
 
-```sh
-npm install
-```
+`4. write 'npm run dev'`
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
